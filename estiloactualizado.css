@@ -1,0 +1,70 @@
+		text-align: left; 
+		font-size:16px;
+	}
+	.publicidad_arriba_banner {
+		margin-top: 10px; 	
+		text-align: center; 
+		font-weight: bold;
+	}	
+	.publicidad_arriba_banner_left {
+		margin-top: 10px; 	
+		margin-bottom: 10px; 	
+		text-align: left; 
+		font-weight: bold;
+	}	
+	.arriba {
+		margin-top: 5px; 
+		text-align: center; 
+	}
+	.arriba img	 {	  width: 200px;}
+	.promo_arriba {
+		margin-top: 5px;
+	    min-height:28px;padding:0 5px;  border-bottom:1px solid #AEB9CA;
+		margin-bottom: 3px; 
+		color: #f23718;
+		font-size:16px;
+	}	
+
+.adultos {text-align: center; font-size:16px; color: #FFFFFF; margin-top: 0px; background-color: #FFFFFF; padding: 2px 0px 2px 0px; border-top: 1px solid #999999; border-bottom: 1px solid #999999; }
+	.nokia   {text-align: center; font-size:16px; color: #FFFFFF; margin-top: 5px; margin-bottom: 10px; background-color: #FFFFFF; padding: 2px 0px 2px 0px; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; }
+	.footer  { color: #fff; margin-top: 5px; background-color: #f23718; padding: 4px 0px 0px 0px; border-top: 2px solid #fe860c; }
+	.urchin  { color: #000000; background-color: #000000;}
+	a span {color:#000000 !important;}
+/* BOTONES */
+.btn{margin:2px 0 2px 0;color:#ffffff;font-weight:bold;display:inline-block;padding:6px 12px;font-size:16px;text-align:center;cursor:pointer;background-image:none;border:1px solid transparent;border-radius:0px;outline:0;}
+.btn2{margin:16px 6px 2px 0;color:#ffffff;font-weight:bold;display:inline-block;padding:6px 12px;font-size:16px;text-align:center;cursor:pointer;outline:0;float:left;}
+.btn2 a {color:#ffffff;text-decoration:none;}
+.fb{background-color:#3b5998;}.fb:hover{background-color:#7986cb;}.gp{background-color:#dd4b39;}.gp:hover{background-color:#f87362;}.tw{background-color:#55acee;}.tw:hover{background-color:#97d1fc;}.li{background-color:#007bb5;}
+.li:hover{background-color:#5daed4;}.pint{background-color:#2bb24c;}.pint:hover{background-color:#50eb76;}.ins{background-color:#f571c8;}.ins:hover{background-color:#fab5e3;}
+.fbtn{clear:both;margin-bottom:6px;}
+
+
+</style>
+<style>
+body a{text-decoration:none;}
+h4{font-size:26px;line-height:30px;margin:8px 0 10px 0;}
+.popular p{line-height:18px;margin-top:22px;text-align:left;}
+.number{color:#0c95c9;font-size:28px;margin-right:6px;}
+.encab{font-size:0.9em;color:#616161;font-weight:bold;padding:2px;width:120px;text-align:center;}
+#enc1{background-color:#90caf9;}
+.enlaces{margin:12px 0 12px 0;}
+hr{margin:14px 0 28px 0;}
+#acerca2{display:none;}
+.botonesmain{margin:2px 0 10px;}
+.pwin{background-color:#ffab91;}
+.pamor{background-color:#bbdefb;}
+.pcuba{background-color:#81c784;}
+.pcrist{background-color:#fce4ec;}
+.info{background-color:#f0f4c3;}
+.salud{background-color:#c8e6c9;}
+.vida{background-color:#b2ebf2;}
+.amistad{background-color:#ccff90;}
+.motiv{background-color:#ffccbc;}
+.homenaje{background-color:#c5cae9;}
+.btn2{margin:16px 6px 2px 0;color:#fff;font-weight:700;display:inline-block;padding:6px 12px;font-size:16px;text-align:center;cursor:pointer;outline:0;float:left}.btn2 a{color:#fff;text-decoration:none}.fb{background-color:#3b5998}.fb:hover{background-color:#7986cb}.tw{background-color:#55acee}.tw:hover{background-color:#97d1fc}.pint{background-color:#2bb24c}.pint:hover{background-color:#50eb76}.inst{background-color:#f571c8}.inst:hover{background-color:#fab5e3}.fbtn{clear:both}
+#credit{clear:both;text-align:center;font-size:14px;line-height:24px;height:24px}
+@media screen and (max-width:479px) {
+	.barrac{font-size:0.8em;}h4 a{line-height:26px;}
+	#popular p{line-height:16px;margin:16px 8px 8px 0;}
+}
+</style>
